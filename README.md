@@ -2,7 +2,7 @@
 A collection of opensource Sim Racing mods for people looking to build their own hardware or contribute their designs and ideas to the community. 
 
 
-# Fanatec brake Mod pictures 
+# Fanatec CSL & CSL Elite Pedals Loadcell Upgrade 
 
 10mm inside diameter and 30mm outside diameter 
 
