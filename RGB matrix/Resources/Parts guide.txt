@@ -1,0 +1,17 @@
+8*8 RGB matrix, much cheaper to buy then to try and build yourself
+
+https://www.aliexpress.com/item/4001296811800.html?spm=a2g0o.order_list.order_list_main.10.473b1802ENSr1F
+
+data sheet for part: https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+
+######################################################################################################
+
+Acrylic board 1mm thick
+
+https://www.aliexpress.com/item/1005004091733988.html?spm=a2g0o.productlist.main.15.6fa11685UAl3rs&algo_pvid=4e2d49a8-e36c-4a4b-b882-3279f814c231&algo_exp_id=4e2d49a8-e36c-4a4b-b882-3279f814c231-7&pdp_ext_f=%7B%22sku_id%22%3A%2212000028004223119%22%7D&pdp_npi=3%40dis%21CAD%214.58%213.44%21%21%21%21%21%4021021f7b16782060680156176d06d1%2112000028004223119%21sea%21CA%21928838175&curPageLogUid=ikgywV3eIHIF
+
+######################################################################################################
+
+Arduino nano with usb type c 
+
+https://www.aliexpress.com/item/32832366092.html?spm=a2g0o.order_list.order_list_main.5.473b1802ENSr1F
